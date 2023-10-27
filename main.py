@@ -19,7 +19,7 @@ This will install the packages from requirements.txt for this project.
 '''
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = 'dev'
 bootstrap = Bootstrap5(app)
 
 
