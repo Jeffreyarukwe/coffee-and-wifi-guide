@@ -7,7 +7,7 @@ import csv
 
 '''
 Red underlines? Install the required packages first: 
-Open the Terminal in PyCharm (bottom left). 
+Open the Terminal (bottom left in PyCharm). 
 
 On Windows type:
 python -m pip install -r requirements.txt
